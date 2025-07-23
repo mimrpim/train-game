@@ -1,4 +1,5 @@
 **strong text**
+
 *emphasized text*
 ## Heading
 ~~strikethrough text~~
